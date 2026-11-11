@@ -5,7 +5,7 @@
 <h3 align="center">1337 Student &nbsp; | &nbsp; Full Stack Developer &nbsp</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Exploring+code%2C+mastering+concepts%2C+and+growing+as+a+developer." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Code+%7C+Learn+%7C+Build+%7C+Repeat" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="90%" />
