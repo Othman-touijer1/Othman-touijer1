@@ -5,9 +5,8 @@
 <h3 align="center">1337 Student &nbsp; | &nbsp; Full Stack Developer &nbsp</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Software+Development;Exploring+the+World+of+C;Building+%7C+Learning+%7C+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building;Learning;Improving" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="90%" />
 </p>
@@ -27,7 +26,8 @@
 - ⚙️ C Programming
 - 🧩 Algorithms & Problem Solving
 - 🧠 Memory Management
-- 🌐 Backend Development
+- 🌐 Full Stack Development
+- 
 ### ◈ 03 — TECH STACK & TOOLS
 
 <p align="center">
