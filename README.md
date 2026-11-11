@@ -24,29 +24,10 @@
 
 ### ◈ 02 — CURRENT FOCUS
 
-<table>
-  <tr>
-    <td>⚙️</td>
-    <td><b>C Programming</b></td>
-    <td>Memory Management</td>
-  </tr>
-  <tr>
-    <td>🧩</td>
-    <td><b>Algorithms</b></td>
-    <td>Data Structures & Problem Solving</td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td><b>Backend Development</b></td>
-    <td>PHP & Laravel</td>
-  </tr>
-  <tr>
-    <td>🐧</td>
-    <td><b>System Programming</b></td>
-    <td>Linux & Software Engineering</td>
-  </tr>
-</table>
-
+- ⚙️ C Programming
+- 🧩 Algorithms & Problem Solving
+- 🧠 Memory Management
+- 🌐 Backend Development
 ### ◈ 03 — TECH STACK & TOOLS
 
 <p align="center">
